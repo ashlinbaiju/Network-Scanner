@@ -1,0 +1,6 @@
+IP Address,MAC Address,Open Ports,Total Open Ports,Device Type
+192.168.1.1,44:95:3b:cb:ea:c0,"53, 80",2,Router/Web Server
+192.168.1.10,b8:1e:a4:fc:93:cf,3306,1,Database Server
+192.168.1.3,7e:02:9b:b8:29:05,No Open Ports Found,0,Unknown Device
+192.168.1.5,92:81:bc:3d:f0:d8,No Open Ports Found,0,Unknown Device
+192.168.1.2,76:a1:2b:a3:bf:75,No Open Ports Found,0,Unknown Device
